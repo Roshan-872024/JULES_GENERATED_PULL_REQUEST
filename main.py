@@ -1,1 +1,2 @@
-print("57212764")
+# Print the verification number
+print("Verification number: 57212764")
